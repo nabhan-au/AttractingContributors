@@ -9,6 +9,7 @@
 - Machu Picchu
 - New York City
 - Reykjavik
+- Singapore
 - Sydney
 - Queenstown, New Zealand
 - Tilicho
