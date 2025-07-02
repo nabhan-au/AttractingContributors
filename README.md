@@ -9,6 +9,7 @@
 - Machu Picchu
 - New York City
 - Reykjavik
+- Queenstown, New Zealand
 - Tilicho
 - Ziro Valley, Arunachal Pradesh, India
 - Kamakura
